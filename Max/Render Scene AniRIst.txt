@@ -1,0 +1,7 @@
+61-146
+147-178->209 walk
+215- run
+260 - sprint
+300 - 
+362 - 416 Guard
+420 - 476 BattleIdle
